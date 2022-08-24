@@ -12,3 +12,6 @@
 
 
 [Link to certificate](https://www.freecodecamp.org/certification/ArtemKhadris/scientific-computing-with-python-v7)
+
+[Link to the course](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
