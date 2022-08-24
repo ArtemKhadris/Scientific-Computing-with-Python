@@ -1,5 +1,5 @@
 # Scientific Computing with Python
-## Solutions of problems from the fss to obtain a certificate:
+## Solutions of problems from the freeCodeCamp to obtain a certificate:
 [Arithmetic Formatter](https://github.com/ArtemKhadris/freeCodeCamp-Arithmetic-Formatter)
 
 [Time Calculator](https://github.com/ArtemKhadris/freeCodeCamp-Time-Calculator)
